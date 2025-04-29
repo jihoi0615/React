@@ -6,7 +6,7 @@ const App = () => {
     <div className="ProductPage">
       <div className="Page">
         <header>
-          <h1>메뉴목록</h1>
+          <Title>메뉴 목록</Title>
         </header>
         <main>
           <ul>
